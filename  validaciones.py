@@ -1,4 +1,4 @@
-# Nombre: TU NOMBRE
+# Nombre: Miguel angel baron gutierrez
 # Grupo: 213023_30
 
 class ErrorValidacion(Exception): pass
