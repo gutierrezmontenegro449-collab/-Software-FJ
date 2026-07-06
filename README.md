@@ -1,7 +1,9 @@
-# Fase 4 - Software FJ
-Grupo: 213023_30
-Integrantes:
-1.  Miguel angel baron gutierrez
+# -Software-FJ
+# Nombre : Miguel angel baron
+# Grupo : 213023_30
+
+## Integrantes
+1. Miguel angel baron
 2. 
 3. 
 4. 

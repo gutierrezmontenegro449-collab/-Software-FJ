@@ -46,9 +46,6 @@ class Reserva:
         finally:
             print("Proceso de confirmacion finalizado")
 
-    def cancelar(self):
-        self.__estado = "Cancelada"
-        return "Reserva cancelada"
-
-    def mostrar(self):
-        return f"Reserva {self.id} | Estado: {self.__estado} | Costo: {self.servicio.calcular_costo(self.duracion)}"
+        def mostrar(self):
+    costo = self.servicio.calcular_costo(self.duracion)
+    return f"Reserva {self.id} | Estado: {self.__estado} | Costo: {costo}"
